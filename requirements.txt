@@ -1,0 +1,9 @@
+aiohttp
+beautifulsoup4
+nltk
+scikit-learn
+tqdm
+python-docx
+pandas
+jinja2
+python-dotenv
